@@ -20,7 +20,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("content://com.android.providers.media.documents/document/image%3A27693") top left no-repeat;
+  background: #930d91 url("assets\img\352442824_283808694102109_2610240719237357698_n.jpg") top left no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
